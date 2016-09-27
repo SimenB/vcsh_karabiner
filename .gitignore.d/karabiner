@@ -1,0 +1,8 @@
+*
+!/.gitignore.d
+!/.gitignore.d/karabiner
+!/.karabiner.d
+!/.karabiner.d/configuration
+!/.karabiner.d/configuration/karabiner.json
+!/.karabiner.d/log
+!/.karabiner.d/log/console_user_server_log.txt
