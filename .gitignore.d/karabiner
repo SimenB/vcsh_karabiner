@@ -1,6 +1,6 @@
 *
+!/.config
+!/.config/karabiner
+!/.config/karabiner/karabiner.json
 !/.gitignore.d
 !/.gitignore.d/karabiner
-!/.karabiner.d
-!/.karabiner.d/configuration
-!/.karabiner.d/configuration/karabiner.json
